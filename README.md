@@ -28,6 +28,13 @@ The main objectives of this project are:
 
 ## 🗄️ Dataset Overview
 
+## Database Schema
+
+![Database Schema](Database_Schema.png)
+
+<img width="1240" height="661" alt="IPL Database Schema" src="https://github.com/user-attachments/assets/73618eb8-189d-4a2b-8e3b-5f176ad0f521" />
+
+
 The IPL database contains multiple relational tables covering match-level and ball-by-ball information.
 
 The dataset includes information related to:
